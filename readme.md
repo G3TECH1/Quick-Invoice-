@@ -6,7 +6,7 @@ QuickInvoice is a full-stack billing solution designed for freelancers and small
 ## 🚀 Why QuickInvoice?
 In a world of heavy, subscription-based billing tools, QuickInvoice stands out by being:
 * **Offline-Ready:** Powered by SQLite for reliable local data storage.
-* **Blazing Fast:** A lightweight React frontend coupled with a high-performance Pywebview API.
+* **Blazing Fast:** A lightweight JavaScript frontend coupled with a high-performance Pywebview API.
 * **Zero Friction:** No unnecessary registrations—just open, create, and export.
 
 ## 🛠️ The Stack
